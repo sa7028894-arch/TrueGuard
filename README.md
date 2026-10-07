@@ -1,4 +1,4 @@
-\# TrueGuard: Quantum-Enhanced Anomaly Detection
+\# TrueGuard:   Quantum-Enhanced Anomaly Detection
 
 
 A hybrid quantum-classical machine learning project developed for \*\*Qiskit Fall Fest 2026 @ MPSTME\*\*. TrueGuard demonstrates how parameterised quantum circuits can be leveraged for classification and anomaly detection tasks.
